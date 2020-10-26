@@ -72,10 +72,5 @@ namespace ISMDotNet4
                 dataGridDeleteNegative[i, 0].Value = arrNegative[i];
             }
         }
-
-        private void labelMax_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

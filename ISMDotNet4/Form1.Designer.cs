@@ -158,7 +158,6 @@
             this.labelMax.Size = new System.Drawing.Size(535, 22);
             this.labelMax.TabIndex = 9;
             this.labelMax.Text = "Максимальный элемент массива: NAN, его индекс: NAN";
-            this.labelMax.Click += new System.EventHandler(this.labelMax_Click);
             // 
             // labelMaxByModule
             // 
