@@ -1,0 +1,13 @@
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe.config
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.pdb
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csprojAssemblyReference.cache
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.Form1.resources
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.Properties.Resources.resources
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.GenerateResource.cache
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.exe
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.pdb
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\MyLibrary.dll
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\MyLibrary.pdb
+C:\Users\dizon\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CopyComplete
